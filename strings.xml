@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Голосовой агент</string>
+    <string name="service_description">Позволяет голосовому агенту видеть содержимое экрана и выполнять нажатия, ввод текста и прокрутку по вашей команде. Содержимое экрана отправляется в API Anthropic.</string>
+</resources>
